@@ -21,6 +21,8 @@ function potenciaNumero (base,exponente):number{
             return 1;
      }
 };
+
+
     
 
 

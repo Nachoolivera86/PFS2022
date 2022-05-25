@@ -24,3 +24,4 @@ function esMultiplo(numero,multiplo):boolean {
 
 
 
+

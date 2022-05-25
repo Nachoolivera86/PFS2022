@@ -27,3 +27,4 @@ function esMultiplo(numero,divisor):boolean {
         return false;
     }
 }
+
